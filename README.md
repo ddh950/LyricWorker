@@ -9,7 +9,7 @@ A simple, asynchronous worker REST API built with **AWS CDK (Python)** and desig
 
 ---
 
-## Technical Analysis: AWS CloudShell Challenges & Solutions
+## Technical Analysis: AWS CloudShell Challenges & Solutions for Pluralsight Sandbox 
 
 During development in the AWS CloudShell environment, several environment and deployment challenges were identified and resolved. Below is a summary of the fixes included in this repository:
 
