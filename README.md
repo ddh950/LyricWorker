@@ -48,18 +48,12 @@ During development in the AWS CloudShell environment, several environment and de
 
 ## Getting Started
 
-1. **Set up your Environment Variables:**
-   Export your OpenAI API key in your terminal session:
-   ```bash
-   export OPENAI_API_KEY="your-api-key-here"
-   ```
-
-2. **Make the deployment script executable:**
+1. **Make the deployment script executable:**
    ```bash
    chmod +x deploy.sh
    ```
 
-3. **Deploy the stack:**
+2. **Deploy the stack:**
    ```bash
    ./deploy.sh
    ```
