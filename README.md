@@ -57,3 +57,6 @@ During development in the AWS CloudShell environment, several environment and de
    ```bash
    ./deploy.sh
    ```
+3. **Set up your Environment Variables:**
+    Configure the OPENAI_API_KEY environment variable in your AWS Lambda function with your OpenAI API key.
+ 
